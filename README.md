@@ -1,5 +1,7 @@
 # live-chat
 
+Demo : https://vue-firebase-e8e8e.firebaseapp.com/
+
 ## Project setup
 ```
 npm install
